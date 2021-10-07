@@ -336,7 +336,7 @@ downscale_solar_geom <- function(doy, lon, lat) {
   rpot <- 1366 * cosz
   return(rpot)
 }
-=======
+
 #' @title Downscale NOAA GEFS frin 6hr to 1hr
 #' @return None
 #'
